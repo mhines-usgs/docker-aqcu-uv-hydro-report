@@ -1,4 +1,4 @@
-FROM cidasdpdasartip.cr.usgs.gov:8447/wma/wma-spring-boot-base:latest
+FROM usgswma/wma-spring-boot-base:8-jre-slim
 
 ENV artifact_version=0.0.1
 ENV serverPort=7508
