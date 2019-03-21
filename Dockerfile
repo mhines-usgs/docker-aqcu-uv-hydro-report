@@ -1,4 +1,4 @@
-FROM usgswma/wma-spring-boot-base:8-jre-slim
+FROM usgswma/wma-spring-boot-base:8-jre-slim-0.0.4
 
 ENV artifact_version=0.0.2-SNAPSHOT
 ENV serverPort=7508
